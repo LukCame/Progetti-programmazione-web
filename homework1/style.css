@@ -1,0 +1,56 @@
+.title{
+    font-family: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+    text-decoration: underline;
+    background-color: #F0F0F0 ;
+    letter-spacing: 0.2em;
+}
+
+.colortitle{
+    color: #9A002C;
+}
+
+h1{
+    text-align: center;
+    font-size: 22pt;
+    font-weight: bold;
+}
+
+h2{
+    text-align: left;
+    font-size: 18pt;
+}
+
+body{
+    background-color: #FFFFFF;
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia,Garamond,serif;
+    background-image: url("http://ppl.eln.uniroma2.it/pw/img/bg1.jpg");
+    background-attachment: fixed;
+}
+
+a{
+    color: #9A002C;
+}
+
+ul{
+    list-style-image: url("http://ppl.eln.uniroma2.it/pw/img/bull.png");
+}
+
+div{
+    margin: 2% 20.25%;
+}
+
+em{
+    font-weight: bold;
+    font-style: normal;
+}
+
+.emcit{
+    font-style: italic;
+}
+
+blockquote{
+    font-style: italic;
+    background-color: #FFF5EE;   
+}
