@@ -5,7 +5,7 @@
     letter-spacing: 0.2em;
 }
 
-.colortitle{
+.title,a{
     color: #9A002C;
 }
 
@@ -26,11 +26,7 @@ body{
     font-size: 11pt;
     font-family: Georgia,Garamond,serif;
     background-image: url("http://ppl.eln.uniroma2.it/pw/img/bg1.jpg");
-    background-attachment: fixed;
-}
-
-a{
-    color: #9A002C;
+    background-attachment: fixed; 
 }
 
 ul{
@@ -46,11 +42,10 @@ em{
     font-style: normal;
 }
 
-.emcit{
+blockquote em,blockquote{
     font-style: italic;
 }
 
 blockquote{
-    font-style: italic;
     background-color: #FFF5EE;   
 }
