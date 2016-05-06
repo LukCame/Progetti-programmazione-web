@@ -1,0 +1,302 @@
+@import url(https://fonts.googleapis.com/css?family=Hind:400,700);
+@import url(https://fonts.googleapis.com/css?family=Play:400,700);
+
+body{
+    background-color: #FFFFFF;
+    font-family: 'Hind',sans-serif;
+    margin:0px;
+    font-size:16px;
+}
+
+.title{
+    font-family: 'Play',sans-serif;
+    color: #c76161;
+    font-weight: normal;
+}
+
+a{
+    text-decoration: none;
+    color: #3a7777;
+}
+
+a:hover{
+    color: #F5AF33;
+}
+
+header{
+    height: 230px;
+    background-image: url(http://ppl.eln.uniroma2.it/pw/img/pic2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: top center;
+    position: relative;
+    width: 100%;
+    z-index: 0; 
+}
+
+#whiteline{
+    width: 100%;
+    height:70px;
+    background-color: #FFFFFF;
+    position: absolute;
+    top:80px;
+}
+
+#contentheader{
+    width: 944px;
+    height: 70px;
+    margin: 0px auto;
+}
+
+#titleheader{
+    width: 400px;
+    height:70px;
+    position: relative;
+    float:left;
+}
+
+#titleheader h1{
+    font-weight: bold;
+    font-size: 2.2em;
+    text-align: center;
+    margin:0px;
+    line-height: 70px;
+    z-index:5;
+}
+
+.active{
+    color: #F5AF33;
+}
+
+#menuheader{
+    float:left;
+    width:544px;
+    height:70px;
+}
+
+header ul{
+    list-style-type:none;
+    margin: 0px;
+    padding: 0px;
+    text-align: right;
+}
+
+header ul li{
+    display: inline;
+    font-weight: bold;
+    padding: 15px;
+    line-height: 70px;
+}
+
+#titleheader img{
+    position: absolute;
+    top: 0px;
+    left:0px;
+    z-index:-1
+}
+
+#content {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:20px;
+    margin-bottom:60px;
+    width: 944px;
+    overflow: auto;
+}
+
+#firstcolumn div p{
+    color:#F5AF33;
+    padding: 20px 0px;
+    float: left;
+    margin:0px;
+}
+
+#firstcolumn div{
+    overflow:auto;
+    width: 100%;
+    border-top:solid 1px #888888;
+}
+
+.icon{
+    margin-top:20px;
+    margin-left:5px;
+    height: 25px;
+    width: 25px;
+    float: right;
+}
+
+#firstcolumn h1{
+    margin: 0px;
+    clear: right;
+    font-size: 2em;
+}
+
+#firstcolumn p{
+    margin-bottom: 0px;
+}
+
+#firstcolumn p img{
+    width:100%;
+}
+
+article{
+    float:left;
+    width: 600px;
+    margin-right: 44px;
+}
+
+article .title{
+    font-size: 1.4em;
+    padding-bottom: 15px;
+    border-bottom:solid 1px #888888;
+    margin-bottom:0px;
+}
+
+#firstsection{
+    overflow: auto;
+    width:100%;
+}
+
+#firstsection ul{
+    width: 100%;
+    overflow: auto;
+    margin:0px;
+    padding:0px; 
+}
+
+#firstsection li{
+    box-sizing: border-box;
+    width:300px;
+    padding: 15px 0px 0px 15px;
+    font-size: 1.1em;
+    text-transform: lowercase;
+    list-style-type: none;
+    background-image: url(http://ppl.eln.uniroma2.it/pw/img/dot.png);
+    background-repeat: no-repeat;
+    background-position: left 26px;
+    float:left;
+}
+ 
+#secondsection{
+    clear:left;
+}
+
+#thirdsection div{
+    font-size: 14px;
+    line-height: 20px;
+}
+
+#thirdsection ul{
+    list-style-type: none;
+    padding-left:0px;
+    margin:0px;
+}
+
+.comm{
+    padding:25px 15px;
+    color: #3d3257;
+    background-color: #f8f6f9;
+    margin-left:0px;
+}
+
+#answp{
+    margin-left:25px;
+}
+
+#answer{
+    color:#FFFFFF;
+    background-color: #c76161;
+    margin-left:25px;
+}
+
+strong{
+    font-weight: normal;
+}
+
+aside{
+    float:left;
+    width:300px;
+}
+
+aside .title{
+    font-size: 1.2em;
+}
+
+#publicity{
+    margin: 20px 0px;
+}
+
+#image img{
+    border: solid 2px #c76161;
+    float:left;
+}
+
+aside ul {
+    padding-left:0px;
+    list-style-type: none;
+}
+
+.container-img{
+    overflow: auto;
+    margin-bottom:30px;
+}
+
+.container-img a{
+    line-height: 104px;
+    padding-left:10px;
+}
+
+footer{
+    clear:left;
+}
+
+footer{
+    width:100%;
+    color: #f1f1f1;
+    background-color: #171717;
+}
+
+#content_footer{
+    width:944px;
+    margin: 0 auto;
+}
+
+footer ul{
+    list-style-type: none;
+    padding:0px;
+    margin:0px;
+}
+
+.menu_footer{
+    width: 33.3333%;
+    float: left;
+    margin-top:20px;
+}
+
+.menu_footer .title{
+    color: #F5AF33;
+    font-size: 1.2em;
+}
+
+#content_menu,#bottomfoot{
+    border-bottom: solid 1px #f1f1f1;
+}
+
+#content_menu{
+    overflow: auto;
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+footer img{
+    float:right;
+    margin-top:5px;
+    margin-right: 5px;
+}
+
+#copyright{
+    margin-top: 20px;
+    font-size:0.8em;
+    padding-bottom: 50px;
+    margin-bottom:0px;
+}
