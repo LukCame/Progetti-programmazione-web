@@ -1,0 +1,31 @@
+{
+    "nome": "Trattoria Cotto e Magnato",
+    "id": "01001",
+    "voto": "5",
+    "cucina": ["italiana","mediterranea"],
+    "indirizzo": "Via Cornelio Magni, 27 | Zona Eur Colombo, Rome, Italy",
+    "tel": "+39 06 64521295",
+    "thumb": "img/r01001_th.png",
+    "foto": ["img/r01001_1.jpg","img/r01001_2.jpg","img/r01001_3.jpg"],
+    "rev": [{
+        "user": "Maxtin M",
+        "titolo": "Ottima cucina romama",
+        "note": "Che dire.... Menu ricco di pietanze tipiche romane, dall'antipasto al secondo e per finire un buon caffè portato direttamente nella moka. Cosa chiedere di piu ad una trattoria?",
+        "voto": "5",
+        "data": "20/04/2016"
+    },{
+        "user": "saroshi_2110",
+        "titolo": "Simpel aber lecker",
+        "note": "Sehr einfache italienische Küche zu normalen Preisen.\nSehr gemütliches Restaurant,unglaublich nettes Personal.\n1nWir hatten eine Vorspeise ( einfach gemacht,aber sehr qualitativ hochwertige Produkte ) und ein Hauptgericht sowie Wein und Wasser und haben zu zweit 45 Euro bezahlt.\n\nIn diesem Restaurant bekommt man ehrliche & gute Italinische Küche.\n\nWenn man in der Nähe ist sollte man dieses Restaurant mal ausprobieren.",
+        "voto": "4",
+        "data": "16/04/2016"        
+    },{
+        "user": "mielardi",
+        "titolo": "Buona cucina romana",
+        "note": "Grande scelta di primi e di secondi piatti della tipica cucina romana; consiglio, agli amanti del genere, di prendere la trippa....squisita davvero.",
+        "voto": "4",
+        "data": "10/04/2016"        
+    }
+    ]
+    
+}

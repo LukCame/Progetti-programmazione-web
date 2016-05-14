@@ -1,0 +1,48 @@
+{
+    "nome": "The Fisherman Burger",
+    "id": "01004",
+    "voto": "4.5",
+    "cucina": ["salentina","pesce"],
+    "indirizzo": "Piazza Pasquale Paoli , 51, Rome, Italy",
+    "tel": "064906321",
+    "thumb": "img/r01004_th.jpg",
+    "foto": ["img/r01004_1.jpg","img/r01004_2.jpg","img/r01004_3.jpg"],
+    "rev": [{
+        "user": "Martin P",
+        "titolo": "Buon pesce e ottimo vino",
+        "note": "Il pesce e' fresco ed i piatti sono interessanti, consiglio il polpo arrosto e l'hamburgher di tonno. La scelta dei vini e' stata facilitata da un'affascinante sommelier : d'arapri pugliese metodo classico, una scoperta! ",
+        "voto": "4",
+        "data": "28/04/2016"
+    },{
+        "user": "Marco P",
+        "titolo": "Turistico ma di livello",
+        "note": "Ambiente realizzato con gusto e fantasia, personale molto cordiale e preparato, menù in gran parte turistico ma senza trascurare a richiesta piatti di livello.. ",
+        "voto": "4.5",
+        "data": "16/05/2016"        
+    },{
+        "user": "Emilia S",
+        "titolo": "Davvero Bravi",
+        "note": "È così che vorrei mangiare, è così che vorrei essere servita e consigliata, è questo il posto dove mangiare piatti appetitosi, leggeri e belli a vedersi. Il posto è informale, accogliente e pulito, le persone che ci lavorano si distinguono per la capacità di entrare in contatto con i clienti e personalizzare il rapporto senza mai essere invadenti. Davvero bravi.... ",
+        "voto": "4",
+        "data": "10/04/2016"        
+    },{
+        "user": "Francesco G",
+        "titolo": "Ristorante pulito",
+        "note": "Ristorante ben pulito e ben decorato",
+        "voto": "4.5",
+        "data": "12/04/2016"        
+    },{
+        "user": "Tiziano Z",
+        "titolo": "Ottimo servizio",
+        "note": "Personale squisito e ottimo cibo",
+        "voto": "5",
+        "data": "13/04/2016"        
+    },{
+        "user": "Marco",
+        "titolo": "Ottima cucina",
+        "note": "Squisita cucina salentina con ingredienti genuini",
+        "voto": "4.5",
+        "data": "17/04/2016"        
+    }
+    ]
+}

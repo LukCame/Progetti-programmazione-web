@@ -1,0 +1,146 @@
+{
+    "nome": "The Meat Market",
+    "id": "01005",
+    "voto": "5",
+    "cucina": ["americana","carne"],
+    "indirizzo": "Corso Vittorio Emanuele II , 121, Rome, Italy",
+    "tel": "0648345182",
+    "thumb": "img/r01005_th.jpg",
+    "foto": ["img/r01005_1.jpg","img/r01005_2.jpg","img/r01005_3.jpg"],
+    "rev": [{
+        "user": "Martino Pitturi",
+        "titolo": "Disnayland della carne",
+        "note": "Meta in cui tutti gli amanti di carne dovrebbero passare. Consigliatissima la possibilità di costruire il proprio hamburgher con ingredienti vari e di qualità. Prezzi ottimi e personale simpatico. Insomma, magia pura",
+        "voto": "4",
+        "data": "28/04/2016"
+    },{
+        "user": "Marco Pap",
+        "titolo": "Da provare",
+        "note": "eccezionale, da rifare assolutamente! personale ottimo e cordiale, carne ottima e anche le disponibilità del menù.",
+        "voto": "4.5",
+        "data": "16/05/2016"        
+    },{
+        "user": "Emiliano",
+        "titolo": "Eccezionale",
+        "note": "Complimenti veramente per la location ....ristorante ottimo carne di prima scelta e menu vasto. Prezzo contenuto accoglienza in sala cordiale e simpatica . locale pulito e facilmente raggiungibile ... Se vuoi mangiare un hamburgher americano vai qui ",
+        "voto": "4",
+        "data": "2/04/2016"        
+    },{
+        "user": "Francesco Guizza",
+        "titolo": "Meat Market Top",
+        "note": "Abbiamo mangiato un ottimo panino....buona la carne e buona l idea di scegliere gli ingredienti.....quanti ne vuoisenza sovraprezZo......personale disponibile e simpatico......con vista castel san' angelo. Ci torneró. ",
+        "voto": "4.5",
+        "data": "9/04/2016"        
+    },{
+        "user": "Tiziano Zanzibar",
+        "titolo": "fantastico...ci tornerò volentieri",
+        "note": "ottimi gli burger dove quì puoi crearli a tuo piacere di tutto di più mmmmmmmmmmmmm una prelibatezza consigliato ",
+        "voto": "5",
+        "data": "11/04/2016"        
+    },{
+        "user": "Marco T",
+        "titolo": "Consiglio...molto buono",
+        "note": "sono stato bene ha mangiato bene la carne eccellente il personale squisito l' amburgher lo puoi fare a tuo piacimento il locale e veramente caratteristico insomma tutto bello consigli a tutti di provare .è non vedo l'ora di ritornare grazie a tutto il personale molto gentile ",
+        "voto": "4.5",
+        "data": "18/05/2016"        
+    },
+    {
+        "user": "Luca Mattia",
+        "titolo": "Eccezionale... da rifare",
+        "note": "Sia il servizio che il personale mi hanno colpito in senso positivo ovviamente. Il cibo è stato superbo nel suo stile americano, carni scelte sul momento e cotte alla perfezione. Lo stile del designe in perfetto accordo con il cibo ... sembra di stare in un fast food tipicamente americano.",
+        "voto": "5",
+        "data": "6/04/2016"       
+    },
+    {
+        "user": "Luca Pizzi",
+        "titolo": "Ottimo",
+        "note": "La mangiata più buona della mia vita un Amburgo dal sapore indimenticabile servizio eccellente , tutti cortesia e gentili spero di ritornare presto ",
+        "voto": "5",
+        "data": "2/04/2016"       
+    },
+    {
+        "user": "Bruno Pizzul",
+        "titolo": "Ci vivrei",
+        "note": "Tutto ottimo, ci vivrei per degustare le prelibatezze in ogni momento. Ospitalità eccellente, personale preparato. ",
+        "voto": "5",
+        "data": "5/04/2016"       
+    },
+    {
+        "user": "Lorenzo Gasp",
+        "titolo": "Ottima Scelta",
+        "note": "Grandissima scelta di hamburger. ..ce n'è davvero per tutti i gusti e sono davvero buonissimi! !!! Unico neo...un pochino complicato addentare un panino così imponente...meglio optare per coltello e forchetta!!! Personale gentile e cordiale. .consigliato!",
+        "voto": "4.5",
+        "data": "10/04/2016"       
+    },
+    {
+        "user": "Giulia Pizzuta",
+        "titolo": "Carne Unica",
+        "note": "Buon ambiente, simpatico e alla mano. Abbiamo ordinato due belle bisteccone, che sono arrivate su un letto di patate....ottime e abbondanti entrambe. Prezzo onesto (25 euri l'una, forse un po altino ma si paga anche il posto a due passi dal meraviglioso Castel Sant'Angelo). Gentilissimo e cordiale uno dei ragazzi dello Staff, Federico.",
+        "voto": "4",
+        "data": "6/04/2016"       
+    },
+    {
+        "user": "Gianmarco Mons",
+        "titolo": "Carne di qualità",
+        "note": "The meat market Roma offre carne di qualità dove potete creare a piacimento i vostri hamburger dandovi la possibilità di scegliere dall'elenco i vari tipi di ingredienti e tipo di carne. Non offre solo vari hamburger ma anche carne alla griglia e hot dog.",
+        "voto": "4",
+        "data": "7/05/2016"       
+    },
+    {
+        "user": "Bruno B",
+        "titolo": "Vera carne",
+        "note": "Una vera hamburgheria, locale moderno... Personale molto simpatico e disponibile carne ottima... Non vedo l'ora di tornarci. ",
+        "voto": "4.5",
+        "data": "10/05/2016"       
+    },
+    {
+        "user": "Errico G",
+        "titolo": "Carne Ottima",
+        "note": "Sono stato a cena con gli amici. Gli hamburger erano veramente fantastici e si distingueva chiaramente che la carne era di alta qualità. Molto carino il format che ti permette di creare il tuo panino come vuoi tu scegliendo anche il peso della carne. Peccato per le birra non all'altezza!",
+        "voto": "4",
+        "data": "9/04/2016"       
+    },
+    {
+        "user": "Marco Lupi",
+        "titolo": "Hamburger e sazietà",
+        "note": "Finalmente un grande panino hamburger che sazia. Carne buona e tanta scelta sia di condimenti che dimensioni. Si può persino decidere infatti di riempire il panino come si vuole. Peccato solo il locale dentro un po' scomodo ma sopportabile! Consigliato! ",
+        "voto": "4.5",
+        "data": "18/04/2016"       
+    },
+    {
+        "user": "Martina L",
+        "titolo": "Carino",
+        "note": "L'idea è molto carina, compreso l'arredamento del locale, che tuttavia è un po' piccolo. Gli hamburger buoni, ma la carne poco saporita. ",
+        "voto": "3.5",
+        "data": "17/04/2016"       
+    },
+    {
+        "user": "Lorenzo Fabrizio",
+        "titolo": "Ottimo posto",
+        "note": "un ottima carne , un ottimo ristorante o steack house, un ottimo posto dove rilassarsi dal ritmo della città",
+        "voto": "4",
+        "data": "19/04/2016"       
+    },
+    {
+        "user": "Domenico Tuttolomondo",
+        "titolo": "Ottimi Hamburger",
+        "note": "Cena con amici, cibo ottimo. La possibilità di poter comporre il proprio hamburgher è davvero una bella trovata. Molto buone e abbondanti anche le patatine. L'unica pecca, la cottura media: troppo cotta. Personale molto cortese è disponibile. ",
+        "voto": "4.5",
+        "data": "21/04/2016"       
+    },
+    {
+        "user": "Salvatore G",
+        "titolo": "Buonissimo",
+        "note": "Panini molto buoni e sostanziosi. C'è la possibilità di personalizzare il proprio panino e la carne è davvero buona. Consigliatissimo! ",
+        "voto": "5",
+        "data": "18/04/2016"       
+    },
+     {
+        "user": "Maurizio S",
+        "titolo": "Ottima la bistecca",
+        "note": "Ottima la bistecca e buona la possibilità personalizzare il panino. Personale simpatico unica pecca tempo di attesa",
+        "voto": "5",
+        "data": "24/04/2016"       
+    }
+    ]
+}

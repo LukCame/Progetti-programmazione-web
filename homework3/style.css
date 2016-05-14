@@ -1,0 +1,170 @@
+/*Importo il font Arial Black sui dispositivi in cui non è presente*/
+@font-face {
+   font-family: "Arial Black";
+   src: url(http://db.onlinewebfonts.com/t/3e7043e8125f1c8998347310f2c315bc.eot);
+   src: local('Arial Black'), url('http://db.onlinewebfonts.com/t/3e7043e8125f1c8998347310f2c315bc.ttf') format('truetype');
+}
+
+
+body{
+    margin:0px !important;
+    font-family: sans-serif !important;
+    font-size: 14px !important;
+}
+
+.container{
+    padding:0px;
+}
+
+.al{
+    margin-top:60px;
+}
+
+.alert {
+    margin-top:20px;
+}
+
+.alert strong,.alert span{
+    font-size:1.5em;
+    font-family: Verdana,serif;  
+}
+
+.alert span{
+    margin-left: 10px;
+}
+
+div.main{
+    border-bottom: 1px grey solid;
+    padding:20px 0px;
+    margin:0px 10px;    
+}
+
+div.main div{
+    padding:0px ;
+}
+
+div.main h2{
+    display:inline-block;
+    margin-bottom:10px;
+    margin-top:0px;
+    color: DODGERBLUE ;
+    font-size:1.5em;
+    font-family: "Arial Black"
+    
+}
+
+a:hover,a{
+    text-decoration: none !important;
+}
+
+.text-blue,#back{
+    color: DODGERBLUE ;
+    font-weight: bold;
+}
+
+.mleft{
+    margin-left: 5px;
+}
+
+.m-bott{
+    margin-bottom:10px;
+}
+
+.mtop{
+    margin-top: 10px !important;
+}
+
+.m-bottom{
+    margin-bottom:0px;
+}
+.text-green{
+    color: green;
+    font-weight: bold;
+}
+
+#first{
+    margin-top: 50px !important;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 10px;
+    margin-bottom:0px !important;
+}
+
+h1{
+    font-weight: bold;
+}
+
+.single{
+    border-bottom: 1px gray solid;
+    padding-left:10px;
+}
+
+.sin-ul{
+    padding-left:0px;
+}
+
+.tit-sing{
+    font-weight: bold;
+}
+
+#f-sing{
+    margin-top:60px;
+}
+
+.user{
+    font-style:italic;
+}
+
+#row-img{
+    border-bottom: 1px gray solid;
+    padding-bottom: 20px;
+}
+
+#img-sing{
+    margin:0px;
+}
+
+#foot-main img,#foot-sing img{
+    float:right;
+    margin-left:5px;
+}
+
+#foot-sing,#foot-main{
+    padding:10px 0px;
+    background-color:#E7E7E7;
+    
+}
+
+#foot-main{
+    margin: 0px 10px !important;
+}
+
+#foot-sing{
+    margin: 0px -15px 0px -15px !important;
+}
+
+@media screen and (min-width: 60px) and (max-width: 767px){
+    div.main h2{
+        font-size:14px !important;
+    }
+    .text-xs{
+        font-size:11px ;
+    }
+}
+
+@media screen and (min-width: 60px) and (max-width: 401px){
+    div.main h2{
+        font-size:11px !important;
+    }
+    .text-xs{
+        font-size:9px;
+    }
+}
+
+@media screen and (min-width: 768px){
+    #img-sing{
+        margin-left:10px;
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "nome": "La Pantera Rosa",
+    "id": "01002",
+    "voto": "3.5",
+    "cucina": ["italiana","mediterranea","pizza"],
+    "indirizzo": "Piazzale del Verano , 84, Rome, Italy",
+    "tel": "064456391",
+    "thumb": "img/r01002_th.jpg",
+    "foto": ["img/r01002_1.jpg","img/r01002_2.jpg","img/r01002_3.jpg"],
+    "rev": [{
+        "user": "jmjjj_17",
+        "titolo": "Excellent",
+        "note": "This is a nice Italian restaurant in San Lorenzo, Rome with a great ambience. Service was great and choices were many to make from. We went there twice during our stay!\n\nChe dire.... Menu ricco di pietanze tipiche romane, dall'antipasto al secondo e per finire un buon caffè portato direttamente nella moka. Cosa chiedere di piu ad una trattoria?",
+        "voto": "5",
+        "data": "6/04/2016"
+    },{
+        "user": "Buon cibo e accoglienza",
+        "titolo": "Simpel aber lecker",
+        "note": "La pizza è molto buona così come gli antipasti e i primi piatti. La cosa che ho veramente apprezzato è il dolce: un delizioso creme-caramel guarnito con panna e caramello. Da provare. Un bel locale, i posti non sono tantissimi occorre prenotare comunque non si spende moltissimo e la qualità dei cibi è soddisfacente. Sicuramente ci tornerò",
+        "voto": "3",
+        "data": "10/12/2015"        
+    },{
+        "user": "Claudia A",
+        "titolo": "Buono",
+        "note": "Locale carino ( a parte le pantere rosa all'ingresso) con ottima possibilità di parcheggio.\nPasta ai funghi buona e abbondante, solo un po troppo oleosa.\nServizio gentile e tempi ok. Dolci buoni con porzioni abbondanti.\nAmari offerti. Buon rapporto qualità prezzo.",
+        "voto": "4",
+        "data": "30/11/2015"        
+    },{
+        "user": "gustaioli",
+        "titolo": "cucina di buon livello",
+        "note": "Anche se è e rimane un locale turistico, mi è piaciuto veramente tanto mangiarci in particolare il primo della casa fettucine pantera rosa con salmone e caviale mi sono piaciute veramente tanto.\nI prezzi sono assolutamente abbordabili.\nPer andarci di sabato è necessario prenotare.\n",
+        "voto": "4",
+        "data": "23/10/2015"        
+    }
+    ]
+    
+}
